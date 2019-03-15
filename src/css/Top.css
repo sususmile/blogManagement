@@ -1,0 +1,18 @@
+.headNav{
+    min-height: 70px;
+    background-color:#000000;
+    line-height: 70px;
+    color: white;
+}
+.contianer{
+    width: 80%;
+    height: 100%;
+    margin: 0 auto;
+}
+.title{
+    float: left;
+    font-size: 20px;
+}
+.greet{
+    float: right;
+}
